@@ -1,9 +1,9 @@
 # Sentiment-Dashboard
-The provided Sentiment Dashboard is a strong portfolio piece showcasing proficiency in Natural Language Processing (NLP), Data Science, and Interactive Web Development.
+The provided Sentiment Dashboard is a strong portfolio piece showcasing proficiency in Natural Language Processing (NLP), Data Science and Interactive Web Development.
 
 
 
-🌟 Demonstrated Technical Skills
+ Demonstrated Technical Skills
 The project effectively showcases a range of technical and analytical capabilities:
 
 
@@ -25,11 +25,11 @@ Interactive Web Development: Expertise in building a fully functional and intera
 
 
 
-Software Engineering: The setup includes clear installation instructions and dependency management (via requirements.txt), ensuring the project is easily reproducible.
+Software Engineering: The setup includes clear installation instructions and dependency management, ensuring the project is easily reproducible.
 
 
 
-✨ Project Effectiveness and Features
+Project Effectiveness and Features
 The dashboard is highly effective due to its practical application and user-friendly design:
 
 
