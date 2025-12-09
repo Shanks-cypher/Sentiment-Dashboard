@@ -51,4 +51,4 @@ Data Output: Users can download analyzed results as CSV, making the dashboard an
 
 
 📜 Licensing
-The project is licensed under the MIT License, indicating it is open-source and allows for broad use, modification, and distribution.
+The project is licensed under the MIT License, indicating it is open-source and allows for broad use, modification and distribution.
